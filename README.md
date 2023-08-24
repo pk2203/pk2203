@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi! Parvathy here 🙌👩‍💻
+### Welcome!
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/45/2a/f3/452af39e8f2977f5b5b4e3d10c5475cb.gif">  
+<source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/45/2a/f3/452af39e8f2977f5b5b4e3d10c5475cb.gif">
+<img alt="YOUR-ALT-TEXT" src="Forever typing awayyyyyy">                                                                             
+</picture>  
 
-<!--
-**pk2203/pk2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Follow me up:
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+
